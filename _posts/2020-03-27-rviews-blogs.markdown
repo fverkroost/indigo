@@ -10,7 +10,7 @@ tag:
 - Python
 - RViews
 - RBloggers
-image: https://github.com/fverkroost/fverkroost.github.io/blob/master/assets/images/screenshot-zalando-fashion-mnist.png
+image: false # https://github.com/fverkroost/fverkroost.github.io/blob/master/assets/images/screenshot-zalando-fashion-mnist.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
