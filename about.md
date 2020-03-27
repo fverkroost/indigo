@@ -2,7 +2,8 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+
+![Profile Image](https://github.com/fverkroost/fverkroost.github.io/raw/master/assets/images/profile.jpg)
 
 <p>Hi! I am Florianne and I am a PhD candidate at the University of Oxford.</p>
 
