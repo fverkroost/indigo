@@ -10,7 +10,7 @@ tag:
 - Python
 - RViews
 - RBloggers
-image: false
+image: https://raw.githubusercontent.com/fverkroost/fverkroost.github.io/master/assets/images/screenshot-zalando-fashion-mnist.png
 headerImage: false
 star: true
 category: blog
