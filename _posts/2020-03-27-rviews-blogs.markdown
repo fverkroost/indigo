@@ -1,5 +1,5 @@
 ---
-title: "Blog posts for RViews and RBloggers"
+title: "Programming blog posts for RViews and RBloggers"
 layout: post
 date: 2020-03-27 15:00
 tag:
@@ -10,14 +10,12 @@ tag:
 - Python
 - RViews
 - RBloggers
-image: false # https://github.com/fverkroost/fverkroost.github.io/blob/master/assets/images/screenshot-zalando-fashion-mnist.png
-headerImage: true
-projects: true
-hidden: true # don't count this post in blog pagination
-description: ""
-category: project
+image: false
+headerImage: false
+star: true
+category: blog
 author: florianneverkroost
-externalLink: false
+description: Programming blog posts for RViews and RBloggers
 ---
 
 During a conference last year, I was invited to write some blog posts for the RViews and RBloggers communities, 
