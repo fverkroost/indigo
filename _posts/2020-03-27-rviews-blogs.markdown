@@ -2,7 +2,14 @@
 title: "Blog posts for RViews and RBloggers"
 layout: post
 date: 2020-03-27 15:00
-tag: R, Python, RViews, RBloggers
+tag:
+- R 
+- RShiny
+- Machine learning
+- Deep learning
+- Python
+- RViews
+- RBloggers
 image: https://github.com/fverkroost/fverkroost.github.io/blob/master/assets/images/screenshot-zalando-fashion-mnist.png
 headerImage: true
 projects: true
