@@ -3,7 +3,7 @@ title: "Blog posts for RViews and RBloggers"
 layout: post
 date: 2020-03-27 15:00
 tag: R, Python, RViews, RBloggers
-image: false # https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://github.com/fverkroost/fverkroost.github.io/blob/master/assets/images/screenshot-zalando-fashion-mnist.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -39,7 +39,3 @@ I use the reduced data from the second post to estimate random forests and gradi
 In this post, I also perform various diagnostic analyses and take measures to reduce overfitting.
 - In the [fourth and final post](https://rviews.rstudio.com/2020/03/24/comparing-machine-learning-algorithms-for-predicting-clothing-classes-part-4/), 
 I estimate support vector machines and compare all the models estimated throughout the series of blog posts.
-
----
-
-I would love to hear what you think and how these posts have helped you upgrade your programming skills!
