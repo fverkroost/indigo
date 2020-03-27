@@ -3,6 +3,7 @@ title: ""
 layout: post
 date: 2020-03-27 16:00
 tag: 
+- R
 - RShiny
 - COVID-19
 image: false
