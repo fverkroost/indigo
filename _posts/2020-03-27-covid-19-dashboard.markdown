@@ -7,14 +7,13 @@ tag:
 - RShiny
 - COVID-19
 image: false
-headerImage: true
-projects: true
-hidden: true # don't count this post in blog pagination
-description: ""
-category: project
+headerImage: false
+star: true
+category: blog
 author: florianneverkroost
-externalLink: false
+description: Dashboard for COVID-19 statistics in the United Kingdom
 ---
+
 
 At the time of writing, the COVID-19 pandemic is keeping the world in its grip. 
 Loads of numbers and statistics are popping up on the Internet, and with these numbers changing increasingly fast, 
