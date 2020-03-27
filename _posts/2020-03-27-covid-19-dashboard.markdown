@@ -25,7 +25,7 @@ United Kingdom (see screen shot below). The second and third tabs show the total
 
 Check out the dashboard [here](https://fverkroost.shinyapps.io/COVID19intheUnitedKingdom/)!
 
-![Screen shot of COVID-19 dashboard](https://raw.githubusercontent.com/fverkroost/fverkroost.github.io/gh-pages/assets/images/screenshot-covid-19-dashboard.png){: class="bigger-image" }
+![Screen shot of COVID-19 dashboard](https://github.com/fverkroost/fverkroost.github.io/assets/images/screenshot-covid-19-dashboard.png){: class="bigger-image" }
 <figcaption class="caption">Screen shot of COVID-19 dashboard</figcaption>
 
 ---
