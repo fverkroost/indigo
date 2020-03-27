@@ -23,7 +23,7 @@ and very happy to share them with you. All code is available on [this Github rep
 In the [first blog post](https://rviews.rstudio.com/2019/10/09/building-interactive-world-maps-in-shiny/), 
 I show readers how to build interactive world maps in RShiny, and how to include dynamic input in the resulting dashboard. 
 In [this file](https://github.com/fverkroost/RStudio-Blogs/blob/master/interactive_worldmap_shiny_embedded.Rmd) 
-on my Github, I also show how to include interactive Shiny dashboards in RMarkdown files.
+on my Github, I also show how to include interactive Shiny dashboards in RMarkdown files. The live app is published [here](https://fverkroost.shinyapps.io/interactive_worldmap_app/).
 
 I also wrote a series of blog posts dedicated to classifying clothing categories from the Zalando Fashion MNIST data
 using various machine and deep learning methods.
