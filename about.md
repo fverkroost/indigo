@@ -7,4 +7,4 @@ layout: page
 
 <p>Hi! I am Florianne and I am a PhD candidate at the University of Oxford.</p>
 
-<p>I am passionate about solving complex problems in society and business using (digital) data and computational methods. My current research offers a computational perspective on the reproduction of socio-economic inequalities by parental status and gender.</p>
+<p>I am passionate about applying my interdisciplinary knowledge and skills to address complex, real-world problems in business and society. Hereby, I make extensive use of advanced computational methods and innovative digital data. Methodologically, I am interested in (Bayesian) statistics, machine and deep learning, agent-based simulations and big data manipulation. My current research and substantive interests span socio-economic inequalities by gender and parental status as well as tracking digital global gender gaps.</p>
