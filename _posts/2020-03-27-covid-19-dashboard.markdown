@@ -23,10 +23,10 @@ develop a Shiny dashboard to display the latest accurate numbers for the United 
 The dashboard contains several different plots. The first three show timelines of new daily and cumulative cases, deaths and hospital admissions, respectively. The fourth shows the daily new and cumulative number of tests by date and test type. The final tab shows the total number of cases across England by region. See the two screen shots below to have an idea of what the dashboard looks like. [This file](https://github.com/fverkroost/code-education-leisure/blob/main/covid-19-dashboard-app.R) on my [Github page](https://github.com/fverkroost) contains the code to create this dashboard.
 
 ![Screen shot of COVID-19 dashboard](https://raw.githubusercontent.com/fverkroost/fverkroost.github.io/master/assets/images/screen-shot-covid-19-timeline.png){: class="bigger-image" }
-<figcaption class="caption">Screen shot of COVID-19 dashboard - Cases and deaths across the UK </figcaption>
+<figcaption class="caption">Screen shot of COVID-19 dashboard - Daily new and cumulative cases by UK nation </figcaption>
 
 ![Screen shot of COVID-19 dashboard](https://raw.githubusercontent.com/fverkroost/fverkroost.github.io/master/assets/images/screen-shot-covid-19-region.png){: class="bigger-image" }
-<figcaption class="caption">Screen shot of COVID-19 dashboard - Cases by England region</figcaption>
+<figcaption class="caption">Screen shot of COVID-19 dashboard - Daily new and cumulative cases by England region</figcaption>
 
 ---
 
