@@ -1,7 +1,7 @@
 ---
 title: "Dashboard for COVID-19 statistics in the United Kingdom"
 layout: post
-date: 2020-03-27 16:00
+date: 2020-10-02 16:00
 tag: 
 - R
 - RShiny
