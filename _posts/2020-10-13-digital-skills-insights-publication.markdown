@@ -1,5 +1,5 @@
 ---
-title: "New article published in the ITU Digital Skills Insights 2020 report"
+title: "New publication: Tracking global gender gaps in information technology using online data"
 layout: post
 date: 2020-10-13 16:00
 tag: 
