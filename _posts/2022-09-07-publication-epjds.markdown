@@ -1,6 +1,7 @@
 ---
 title: "New publication: Analysing global professional gender gaps using LinkedIn advertising data"
 layout: post
+projects: true
 date: 2021-07-29 16:00
 tag: 
 - Publications
