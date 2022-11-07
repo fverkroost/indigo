@@ -1,5 +1,6 @@
 ---
 title: "New publication: A Bayesian multivariate hierarchical growth curve model to examine cumulative socio-economic (dis)advantage among childless adults and parents"
+projects: true
 layout: post
 date: 2022-10-19
 tag: 
