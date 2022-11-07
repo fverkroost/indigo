@@ -1,6 +1,7 @@
 ---
 title: "New publication: Tracking global gender gaps in information technology using online data"
 layout: post
+projects: true
 date: 2020-10-13 16:00
 tag: 
 - Publications
